@@ -41,7 +41,7 @@ hidecode.tpl
 
 tpl语法参考[Customizing nbconvert](http://nbconvert.readthedocs.io/en/5.x/customizing.html "Customizing nbconvert")
 
-## 4.嵌入显示matplotlib结果
+## 4.嵌入显示matplotlib结果(新版本默认已经是嵌入显示)
 ``` python
 %matplotlib inline
 import matplotlib.pyplot as plt
